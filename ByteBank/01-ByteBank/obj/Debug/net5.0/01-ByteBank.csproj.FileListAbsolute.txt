@@ -1,0 +1,16 @@
+C:\Users\paulo.venones.silva\www\courses\alura\csharp\ByteBank\01-ByteBank\bin\Debug\net5.0\01-ByteBank.exe
+C:\Users\paulo.venones.silva\www\courses\alura\csharp\ByteBank\01-ByteBank\bin\Debug\net5.0\01-ByteBank.deps.json
+C:\Users\paulo.venones.silva\www\courses\alura\csharp\ByteBank\01-ByteBank\bin\Debug\net5.0\01-ByteBank.runtimeconfig.json
+C:\Users\paulo.venones.silva\www\courses\alura\csharp\ByteBank\01-ByteBank\bin\Debug\net5.0\01-ByteBank.runtimeconfig.dev.json
+C:\Users\paulo.venones.silva\www\courses\alura\csharp\ByteBank\01-ByteBank\bin\Debug\net5.0\01-ByteBank.dll
+C:\Users\paulo.venones.silva\www\courses\alura\csharp\ByteBank\01-ByteBank\bin\Debug\net5.0\ref\01-ByteBank.dll
+C:\Users\paulo.venones.silva\www\courses\alura\csharp\ByteBank\01-ByteBank\bin\Debug\net5.0\01-ByteBank.pdb
+C:\Users\paulo.venones.silva\www\courses\alura\csharp\ByteBank\01-ByteBank\obj\Debug\net5.0\01-ByteBank.csprojAssemblyReference.cache
+C:\Users\paulo.venones.silva\www\courses\alura\csharp\ByteBank\01-ByteBank\obj\Debug\net5.0\01-ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo.venones.silva\www\courses\alura\csharp\ByteBank\01-ByteBank\obj\Debug\net5.0\01-ByteBank.AssemblyInfoInputs.cache
+C:\Users\paulo.venones.silva\www\courses\alura\csharp\ByteBank\01-ByteBank\obj\Debug\net5.0\01-ByteBank.AssemblyInfo.cs
+C:\Users\paulo.venones.silva\www\courses\alura\csharp\ByteBank\01-ByteBank\obj\Debug\net5.0\01-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\paulo.venones.silva\www\courses\alura\csharp\ByteBank\01-ByteBank\obj\Debug\net5.0\01-ByteBank.dll
+C:\Users\paulo.venones.silva\www\courses\alura\csharp\ByteBank\01-ByteBank\obj\Debug\net5.0\ref\01-ByteBank.dll
+C:\Users\paulo.venones.silva\www\courses\alura\csharp\ByteBank\01-ByteBank\obj\Debug\net5.0\01-ByteBank.pdb
+C:\Users\paulo.venones.silva\www\courses\alura\csharp\ByteBank\01-ByteBank\obj\Debug\net5.0\01-ByteBank.genruntimeconfig.cache
